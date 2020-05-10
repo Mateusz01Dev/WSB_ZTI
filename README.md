@@ -1,2 +1,2 @@
-# WSB_ZTI/Flutter_app
+# WSB_ZTI/_app
 Repozytorium do przedmiotu 'Zaawansowane technologie internetowe'
