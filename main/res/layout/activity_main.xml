@@ -14,7 +14,7 @@
         android:inputType="textPersonName"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
-        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="180dp" />
 
     <EditText
@@ -27,7 +27,7 @@
         android:layout_below="@+id/etName"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="260dp" />
 
     <Button

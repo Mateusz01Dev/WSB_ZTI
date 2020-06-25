@@ -13,7 +13,7 @@
         android:textSize="35sp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="250dp"
-        tools:layout_editor_absoluteX="93dp"
+        tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="246dp" />
 
 </RelativeLayout>
